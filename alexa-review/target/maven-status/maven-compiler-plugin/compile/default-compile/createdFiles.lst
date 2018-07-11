@@ -1,0 +1,5 @@
+com\alexa\model\ReviewPredicates.class
+com\alexa\ws\ReviewService.class
+com\alexa\ws\ReviewService$1.class
+com\alexa\model\AlexaAppReviewBean.class
+com\alexa\ws\SpringBootWebApplication.class
